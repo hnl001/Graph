@@ -149,7 +149,7 @@ public class Graph<T> {
 	}
 	
 	public Tree<T> getMinSpanTree(Vertex<T> start) {
-		
+		System.out.println("foo");
 		return null;
 	}
 
